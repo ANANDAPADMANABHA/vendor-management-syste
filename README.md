@@ -13,7 +13,7 @@ This repository contains the source code for a Vendor Management System (VMS) de
 ### Steps
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/vendor-management-system.git
+   git clone https://github.com/ANANDAPADMANABHA/vendor-management-system.git
 
 2. **Install dependencies:**
    pip install -r requirements.txt
